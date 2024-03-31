@@ -1,6 +1,6 @@
 # Audio Player
 
-## [Demo Link](https://hrms-elms.netlify.app/)
+## [Demo Link](https://audioreactplayer.netlify.app/)
 
 ### Installation
 Make sure you have Node.js and npm installed on your machine. Then, clone this repository and run npm install to install the dependencies listed in the package.json file.
